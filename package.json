@@ -1,0 +1,15 @@
+{
+  "name": "typescript",
+  "version": "1.0.0",
+  "description": "- let : Utilisé pour déclarer une variable dont la valeur peut être modifiée par la suite. La portée d'une variable déclarée avec \"let\" est limitée au bloc dans lequel elle est définie.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^20.12.2"
+  }
+}
